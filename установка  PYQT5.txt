@@ -1,0 +1,7 @@
+1. python-3.8.3
+2. MinGW Installer (https://osdn.net/projects/mingw/releases/)
+3. pycharm-edu-2020.1.1
+4. Qt Designer Setup (https://build-system.fman.io/qt-designer-download)
+
+pycharm-edu-2020.1.1 --> в проекте установить PyQt5, PyQrtDesigner
+В Qt Designer Setup настроить сохранение  ui файлов в проекте pycharm
