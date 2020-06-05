@@ -5,3 +5,4 @@
 
 pycharm-edu-2020.1.1 --> в проекте установить PyQt5, PyQrtDesigner
 В Qt Designer Setup настроить сохранение  ui файлов в проекте pycharm
+https://yadi.sk/d/wbhNsmlzGeLA8w архив дистрибутивов
